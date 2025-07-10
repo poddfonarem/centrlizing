@@ -10,14 +10,14 @@
 
 ### 👤 User Features
 
-- **Registration & Login** – Secure user registration and authorization system.
 - **Apply for Leasing** – Users can submit leasing applications with personal and vehicle data.
 - **"Call Me Back" Feature** – Users can request a callback by submitting their phone number.
 - **Application Status Check** – Users can track the current status of their submitted applications.
 
 ### 🖠️ Admin Features
 
-- **User Account Management** – Admins can manage accounts: log in, log out, and delete users.
+- **Login** – Secure authorization system.
+- **User Account Management** – Admins can manage accounts: registration and delete users.
 - **Order Management** – Admin panel for processing leasing requests.
 - **Call Requests Handling** – Admins can view and manage callback requests from users.
 
