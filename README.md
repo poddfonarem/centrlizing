@@ -112,5 +112,9 @@ project-root/
 
 ## 📜 License
 
+See [LICENSE](./LICENSE) file.
 This project is for academic or demo purposes. All rights reserved © 2025.
 
+---
+
+🌐 Made with ❤️ PODDFONAREM
