@@ -1,8 +1,8 @@
-# 🚗 Leasing Center
+# 🚗 Centrlizing
 
 
 
-**Leasing Center** is a modern web platform that provides financial leasing services for automobile purchases. It is designed for both administrators and customers, offering complete workflows from request submission to order management.
+**Centrlizing** is a modern web platform that provides financial leasing services for automobile purchases. It is designed for both administrators and customers, offering complete workflows from request submission to order management.
 
 ---
 
