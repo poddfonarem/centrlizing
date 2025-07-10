@@ -1,0 +1,32 @@
+# Composer
+/vendor/
+composer.lock
+
+# IDE / редактори
+/.idea/
+/.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Логи, кеш
+*.log
+*.cache
+*.tmp
+
+# Тестові та локальні файли
+.env
+.env.local
+.env.*.local
+.phpunit.result.cache
+
+# Налаштування сервера (якщо є)
+/apache/
+.nginx/
+
+/build/
+/dist/
+/output/
